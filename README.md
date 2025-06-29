@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**sangvivy/Sangvivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+## GITHUB STATS
+[![VivyGitHub Stats](https://github-readme-stats.vercel.app/api?username=sangvivy&show_icons=true&theme=radical&hide_border=true)](https://github.com/sangvivy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sangvivy&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=sangvivy&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+````
